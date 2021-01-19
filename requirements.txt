@@ -1,0 +1,7 @@
+Keras
+scikit-learn
+matplotlib
+pandas
+tensorflow
+tqdm
+jupyterlab
